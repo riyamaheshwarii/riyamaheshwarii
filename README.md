@@ -29,8 +29,3 @@ I enjoy learning new technologies and turning ideas into practical applications.
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FFB6C1&width=500&lines=Always+Building+Something+New+✨" />
 </p>
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
