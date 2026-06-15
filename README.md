@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi! I'm Riya Maheshwari 🌸
 
-<!--
-**riyamaheshwarii/riyamaheshwarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science (IT) student passionate about Python, Machine Learning, Automation, and building projects that solve real-world problems.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies and turning ideas into practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+## 📊 GitHub Statistics
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=riyamaheshwarii&show_icons=true&theme=default" />
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyamaheshwarii&layout=compact" />
+
+</td>
+</tr>
+</table>
+
+## 🤍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=black)](www.linkedin.com/in/riya-maheshwari-85a486324)
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FFB6C1&width=500&lines=Always+Building+Something+New+✨" />
+</p>
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
